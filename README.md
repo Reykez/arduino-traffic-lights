@@ -16,3 +16,6 @@ Simple project that you can do on you own. Have fun.
 #### Time and skills
 * Time below 1 hour
 * Basic skills 
+
+
+![image1]https://user-images.githubusercontent.com/44320848/71576409-e7575780-2af0-11ea-9d00-ff674cc8d8bd.png
