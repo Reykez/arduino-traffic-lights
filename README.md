@@ -19,3 +19,4 @@ Simple project that you can do on you own. Have fun.
 
 ## Schematic
 ![image2](https://github.com/Reykez/arduino-traffic-lights/blob/master/schematic.png)
+(schematic in fritzing)
